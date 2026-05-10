@@ -1,0 +1,4 @@
+Yanis Hessas 15.5 12.0 18.0
+Marie Dupont 10.0 14.5 9.5
+Ahmed Benali 17.0 16.5 19.0
+Lea Martin 8.0 11.0 13.5
